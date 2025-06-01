@@ -1,5 +1,14 @@
 # Awesome Database Design Problems
 
+## Table of Contents
+
+- [Introduction](#-introduction)
+- [Who This Is For](#-who-this-is-for)
+- [How to Use This Repository](#-how-to-use-this-repository)
+- [Table of Problems](#-table-of-problems)
+- [Contributing](#-contributing)
+- [Attribution & Sources](#-attribution--sources)
+
 ## 📘 Introduction
 
 This is a curated and growing collection of high-quality, real-world database design challenges. This repo is designed for anyone who wants to go beyond writing SQL and focus on the **core skill of data modeling**.
