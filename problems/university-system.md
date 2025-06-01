@@ -44,7 +44,7 @@ Beyond the entities and attributes, you have also identified the following relat
 - A **Student** belongs to a **Department**.
 - An **Instructor** belongs to a **Department**.
 - A **Course** belongs to a **Department**. 
-- A course may have a prerequisite course, which is also a **Course**. A course can also be a prerequisite for another course.
+- A **Course** may have many prerequisite courses, which are also courses. A course can also be a prerequisite for many other courses.
 - A **Section** is an offering of a **Course** in a specific semester/year. A specific semester/year can have multiple sections of the same course.
 - A **Teacher** can teach multiple **Sections** of the same or different courses in a semester/year. A **Section** is taught by only one **Instructor**.
 - A **Student** can take multiple **Sections** in a semester/year, and a **Section** can have multiple **Students** enrolled.
@@ -61,4 +61,4 @@ Beyond the entities and attributes, you have also identified the following relat
 
 ## Solution sample
 
-A sample design of the database for the university system from the book [Database System Concepts](https://db-book.com/) can be found [here](samples/university-system-sample.png). The sample adopts the Chen's Notation. Another sample design using the Crow's Foot Notation will be available soon.
+A sample design of the database for the university system using the Crow's Foot Notation can be found [here](../samples/university-system.png).

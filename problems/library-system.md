@@ -58,4 +58,4 @@ Beyond the entities and attributes, you have also identified the following relat
 
 ## Solution sample
 
-A sample design of the database for the library system using the Crow's Foot Notation will be available soon.
+A sample design of the database for the library system using the Crow's Foot Notation can be found [here](../samples/library-system.png).

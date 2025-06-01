@@ -59,7 +59,6 @@ Beyond the entities and attributes, you have also identified the following relat
 - Publisher names are assumed to be unique.
 - Each book has an associated inventory record to track stock levels.
 
-
 ## Solution sample
 
-A sample design of the database for the bookstore inventory system from the book [Database System Concepts](https://db-book.com/) can be found [here](samples/bookstore-system-sample.png). The sample adopts the Chen's Notation. Another sample design using the Crow's Foot Notation will be available soon.
+A sample design of the database for the bookstore inventory system using the Crow's Foot Notation can be found [here](../samples/bookstore-system.png).
