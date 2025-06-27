@@ -15,6 +15,8 @@ This is a curated and growing collection of high-quality, real-world database de
 
 This repository aggregates problems from textbooks, university assignments, industry-inspired scenarios, and original case studies. The goal is to provide a practical, structured way to master relational database design, beyond simple SQL queries and into thoughtful schema modeling. Whether you're preparing for interviews, teaching a course, studying for a class, or just trying to improve your data modeling skills, this collection is here to help.
 
+Each problem comes with a sample solution, often in the form of an ER diagram that adopts the Crow's Foot notation. Why Crow's Foot? Because it is widely recognized and provides a clear, visual representation of entities, attributes, and relationships in a database schema.
+
 ## 🎯 Who This Is For
 
 - 🧑‍🎓 Computer science and software engineering students
@@ -50,6 +52,8 @@ If you have a database design problem you'd like to contribute, please follow th
 4. **Include references**: If your problem is based on a textbook or course, provide proper attribution.
 5. **Submit a pull request**: Once your problem is ready, submit a PR for review.
 6. **Engage with feedback**: Be open to suggestions and improvements from the community.
+
+Please note that your solution sample should adopt the Crow's Foot notation for ER diagrams.
 
 ## 🏷 Attribution & Sources
 
