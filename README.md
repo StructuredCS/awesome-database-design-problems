@@ -15,7 +15,9 @@ This is a curated and growing collection of high-quality, real-world database de
 
 This repository aggregates problems from textbooks, university assignments, industry-inspired scenarios, and original case studies. The goal is to provide a practical, structured way to master relational database design, beyond simple SQL queries and into thoughtful schema modeling. Whether you're preparing for interviews, teaching a course, studying for a class, or just trying to improve your data modeling skills, this collection is here to help.
 
-Each problem comes with a sample solution, often in the form of an ER diagram that adopts the Crow's Foot notation. Why Crow's Foot? Because it is widely recognized and provides a clear, visual representation of entities, attributes, and relationships in a database schema.
+Each problem comes with a sample solution, often in the form of an ER diagram that adopts the Crow's Foot notation. Why Crow's Foot? Because it is widely recognized and provides a clear, visual representation of entities, attributes, and relationships in a database schema. Crow's Foot notation is widely used in industry and by practitioners, and is widely supported by a variety of database design tools.
+
+Interested in learning about database design concepts? Check out [this open-access lecture series](https://www.youtube.com/playlist?list=PL3fg3zQpW0k4UO9eBDLdroADnB18ZAOgj) based on the book [Grokking Relational Database Design](https://mng.bz/PRER).
 
 ## 🎯 Who This Is For
 
