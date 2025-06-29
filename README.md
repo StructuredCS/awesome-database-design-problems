@@ -11,13 +11,17 @@
 
 ## 📘 Introduction
 
-This is a curated and growing collection of high-quality, real-world database design challenges. This repo is designed for anyone who wants to go beyond writing SQL and focus on the **core skill of data modeling**.
+Welcome! This is a curated and growing collection of high-quality, real-world **database design challenges**. It's built for anyone who wants to go beyond just writing SQL and focus on the **core skill of data modeling**.
 
-This repository aggregates problems from textbooks, university assignments, industry-inspired scenarios, and original case studies. The goal is to provide a practical, structured way to master relational database design, beyond simple SQL queries and into thoughtful schema modeling. Whether you're preparing for interviews, teaching a course, studying for a class, or just trying to improve your data modeling skills, this collection is here to help.
+The problems here are drawn from textbooks, university assignments, industry-inspired scenarios, and original case studies. The goal is to provide a **practical, structured way to master relational schema design** — moving past simple queries into thoughtful, real-world modeling decisions.
 
-Each problem comes with a sample solution, often in the form of an ER diagram that adopts the Crow's Foot notation. Why Crow's Foot? Because it is widely recognized and provides a clear, visual representation of entities, attributes, and relationships in a database schema. Crow's Foot notation is widely used in industry and by practitioners, and is widely supported by a variety of database design tools.
+Each problem includes a sample solution, typically in the form of an **ER diagram using Crow’s Foot notation**. Why Crow’s Foot? Because it’s clear, widely recognized, and supported by most professional database design tools. It provides an intuitive visual language for modeling entities, attributes, and relationships.
 
-Interested in learning about database design concepts? Check out [this open-access lecture series](https://www.youtube.com/playlist?list=PL3fg3zQpW0k4UO9eBDLdroADnB18ZAOgj) based on the book [Grokking Relational Database Design](https://mng.bz/PRER).
+If you're interested in understanding the **why** behind these designs — the tradeoffs, the design principles, and the relational theory — check out this **open-access lecture series** on YouTube:
+
+* 📺 [Watch the full playlist here](https://www.youtube.com/playlist?list=PL3fg3zQpW0k4UO9eBDLdroADnB18ZAOgj)
+
+This video series is based on the book [*Grokking Relational Database Design*](https://mng.bz/PRER), and explores the reasoning behind good schema design, including normalization, cardinality, keys, and common pitfalls.
 
 ## 🎯 Who This Is For
 
