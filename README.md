@@ -17,11 +17,7 @@ The problems here are drawn from textbooks, university assignments, industry-ins
 
 Each problem includes a sample solution, typically in the form of an **ER diagram using Crow’s Foot notation**. Why Crow’s Foot? Because it’s clear, widely recognized, and supported by most professional database design tools. It provides an intuitive visual language for modeling entities, attributes, and relationships.
 
-If you're interested in understanding the **why** behind these designs — the tradeoffs, the design principles, and the relational theory — check out this **open-access lecture series** on YouTube:
-
-* 📺 [Watch the full playlist here](https://www.youtube.com/playlist?list=PL3fg3zQpW0k4UO9eBDLdroADnB18ZAOgj)
-
-This video series is based on the book [*Grokking Relational Database Design*](https://mng.bz/PRER), and explores the reasoning behind good schema design, including normalization, cardinality, keys, and common pitfalls.
+If you're interested in understanding the **why** behind these designs — the tradeoffs, the design principles, and the relational theory — check out [this **open-access lecture series** on YouTube](https://www.youtube.com/playlist?list=PL3fg3zQpW0k4UO9eBDLdroADnB18ZAOgj). This video series is based on the book [*Grokking Relational Database Design*](https://mng.bz/PRER), and explores the reasoning behind good schema design, including normalization, cardinality, keys, and common pitfalls.
 
 ## 🎯 Who This Is For
 
@@ -68,3 +64,9 @@ All problems include attribution when adapted from books, courses, or websites. 
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 👤 About the Maintainer
+
+This repository is maintained by [Dr. Qiang Hao](https://qhao.info/), a Computer Science professor and the lead author of [*Grokking Relational Database Design*](https://mng.bz/PRER). You can find more of his teaching at [his YouTube channel @StructuredCS](https://www.youtube.com/@structuredcs).
